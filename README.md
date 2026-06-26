@@ -1,5 +1,6 @@
 # Credit-Card-Fraud-Detection
 Credit Card Fraud Detection using Machine Learning
+
 📌 Project Overview
 
 This project builds a machine learning model to detect fraudulent credit card transactions. Since fraud cases are extremely rare compared to legitimate transactions, the dataset is highly imbalanced. To address this challenge, the project applies data preprocessing, feature scaling, and SMOTE (Synthetic Minority Oversampling Technique) to balance the classes before training multiple classification models.
